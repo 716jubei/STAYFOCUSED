@@ -7,6 +7,13 @@
 	  border: none;
 	}
 
+	@viewport {
+	  width: device-width ;
+	  zoom: 1.0 ;
+	}
+
+
+
 	form{
 	   display:block; 
 	   margin:0 auto;
